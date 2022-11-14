@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666983284 source:c:\users\lucas\desktop\estudos\projetinhos\desviocondicionalencadeado\main.c
+	<stdio.h>
+	<stdlib.h>
+

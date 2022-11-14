@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666727316 source:c:\users\lucas\desktop\estudos\projetinhos\lendo dados\main.c
+	<stdio.h>
+	<stdlib.h>
+

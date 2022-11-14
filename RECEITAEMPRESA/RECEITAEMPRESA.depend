@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666816659 source:c:\users\lucas\desktop\estudos\projetinhos\receitaempresa\main.c
+	<stdio.h>
+	<stdlib.h>
+

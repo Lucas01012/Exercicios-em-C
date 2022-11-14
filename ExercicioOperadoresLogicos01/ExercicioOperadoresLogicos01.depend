@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668459214 source:c:\users\lucas\desktop\estudos\projetinhos\exerciciooperadoreslogicos01\main.c
+	<stdio.h>
+	<stdlib.h>
+

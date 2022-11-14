@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666811573 source:c:\users\lucas\desktop\estudos\projetinhos\mediaaluno\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666813884 source:c:\users\lucas\desktop\estudos\projetinhos\quilometragemcarro\main.c
+	<stdio.h>
+	<stdlib.h>
+

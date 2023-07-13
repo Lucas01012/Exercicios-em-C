@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686098909 source:c:\users\lucas\desktop\exercicios de programacao\linguagem c\exercicioavaliativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

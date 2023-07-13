@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682528235 source:c:\users\lucas\desktop\exercicios de programacao\linguagem c\mostrar data\main.c
+	<stdio.h>
+	<stdlib.h>
+
